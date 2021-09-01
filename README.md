@@ -72,7 +72,7 @@ bash main.sh
 
 ### input image1
 
- <img src="https://github.com/leeseomin/arte30/blob/main/s/IMG_2956.png" width="500">
+ <img src="https://github.com/leeseomin/arte30/blob/main/s/IMG_2956.JPG" width="500">
 
 ### output (image1)
  
