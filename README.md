@@ -1,6 +1,6 @@
 # arte30 :  arte25 x array
 
-  <img src="https://github.com/leeseomin/arte30/blob/main/out/IMG_2956toon5rray.png" width="2000">
+  <img src="https://github.com/leeseomin/arte30/blob/main/out/IMG_2956toon5rray.png" width="65%">    
 
 
 ### Dependency install on ubuntu 16.04  + torch7 + cuda+  nvidia Pascal gpus (ex. gtx1080ti, gtx1080, gtx1070, gtx1070ti)
@@ -76,8 +76,7 @@ bash main.sh
 
 ### output (image1)
  
-  <img src="https://github.com/leeseomin/arte30/blob/main/out/IMG_2956toon5rray.png" width="2000">
-
+  <img src="https://github.com/leeseomin/arte30/blob/main/out/IMG_2956toon5rray.png" width="65%">    
 
 
 
